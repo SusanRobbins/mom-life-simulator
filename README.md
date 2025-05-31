@@ -1,12 +1,22 @@
-# Mom Life Simulator
+# Mom Life Simulator: Sanity Mode
 
-This is a fun Python mini-game simulating the emotional rollercoaster of parenting toddlers.
+A humorous, text-based simulation of a day in the life of a mom with toddlers — now with a **Sanity Meter**! Built as a beginner Python project with loops, functions, conditionals, and soul-deep sarcasm.
 
-## Versions
-- `mom_life_simulator.py` – the original version
-- `mom_life_simulator_sanity_mode.py` – now with a sanity meter because you're insane and can't tell how much
+## Features
 
-## How to Use
-Run the `.py` file in a Python environment and answer the prompts.
+- Time-based scenario choices: morning, afternoon, evening
+- Sanity tracking from 5 (functioning) to 0 (bouncy castle)
+- Quirky dialogue that’s painfully relatable
+- Simple Python logic and structure
 
-Press `q` to quit before losing your last shred of sanity and probably dignity.
+## How to Run
+
+1. Make sure you have Python installed.
+2. Clone this repo or download the script.
+3. Run it with:
+   ```bash
+   python mom_life_simulator.py
+
+## Author
+
+Susan Robbins – cliche tired mom, rising tech writer/dev, C2 fluency in toddler.
